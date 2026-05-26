@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderspdate",
+        "uuid": 2302300,
+        "checksum": "l1vtsg"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
